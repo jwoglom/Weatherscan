@@ -8,7 +8,7 @@ If you would like to donate to this project visit here:
 https://opencollective.com/weather-ranch 
 
 ## Stay up to date (Visit the Discord Server):
-https://discord.io/WeatherRanch
+https://discord.gg/WeatherRanch
 ## Installation Instructions:
 
 ## Running locally:
