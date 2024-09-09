@@ -1,7 +1,7 @@
 # Weatherscan Simulator
 Weatherscan simulation in HTML/JS/CSS
 
-Visit https://weatherscan.net/?Philadelphia for a demo 
+Visit https://weatherscan.me/?Philadelphia for a demo 
 
 ## Stay up to date (Visit the Discord Server):
 https://discord.gg/WeatherRanch
